@@ -1,0 +1,8 @@
+[ 20:36:15 DEBUG ] - Open TextureManager 0x5626e3293820
+[ 20:36:15 DEBUG ] - Open FontManager 0x5626e32937a0
+[ 20:36:15 DEBUG ] - Open Texture textures/elastic.png at 0x5626e4635000
+[ 20:36:15 DEBUG ] - Open Texture widgets/button.png at 0x5626e4673710
+[ 20:36:25 DEBUG ] - Close FontManager 0x5626e32937a0
+[ 20:36:25 DEBUG ] - Destroy Texture 0x5626e4635000
+[ 20:36:25 DEBUG ] - Destroy Texture 0x5626e4673710
+[ 20:36:25 DEBUG ] - Close TextureManager 0x5626e3293820
